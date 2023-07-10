@@ -1,2 +1,2 @@
-# Ozone BNT smart contract
+# Ozone BNB smart contract
 
